@@ -1,0 +1,8 @@
+{
+  "experience": "Web Application Development + Web Design + UI/UX + Consultation. Deployment and server support for small to large businesses.",
+  "prototyping": "Adobe XD + Sketch + Figma",
+  "stacks": "JAM Stack operations working in Javascript + API creation and implementation including CMS / Markup in various technologies such as JSON-T (SquareSpace) or custom JSON API implementation.",
+  "frameworking": "JS: React + NextJS + GatsbyJS, CSS: Modules + Components + Tailwind + MaterialUI or Bootstrap inclusions.",
+  "cms": "Traditional: WordPress Custom Template creation with ACF integration and/or Gutenberg custom blocks w/ custom styling blocks + Joomla + Drupal + Custom SquareSpace templating. Headless: Strapi JS API Creation + Firebase API + JS-based CRUD operators.",
+  "deployment": "Plesk / WHM | Linux + Apache + MySQL + PHP | Docker | Virtual Machines | Node JS + Firebase Hosting + Netlify + Vercel"
+}

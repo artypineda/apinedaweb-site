@@ -1,0 +1,479 @@
+[
+  {
+    "id": "1",
+    "title": "AIMS Center for Math and Science",
+    "logo_url": "/apw/aims-logo.png",
+    "cover_url": "/apw/aims-cover.jpg",
+    "tools": "Custom SquareSpace Theme + Liquid JS + Javascript",
+    "description": "AIMS Center supports playful, human-centered, and culturally-sustaining approaches to teaching and learning mathematics and science. <br/><br/>This project was developed as a custom SquareSpace theme utilizing the development ecosystem: liquidJS. Used additional JavaScript and best practices for this custom application.",
+    "github_url": "https://github.com/artypineda/AIMS_Center.git",
+    "slug": "aims",
+    "website": "https://aimscenter.org/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/aims-img-1.jpg",
+        "image_alt": "AIMS Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/aims-img-2.jpg",
+        "image_alt": "AIMS Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/aims-img-3.jpg",
+        "image_alt": "AIMS Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/aims-img-4.jpg",
+        "image_alt": "AIMS Image 3"
+      },
+      {
+        "id": "5",
+        "image_url": "/apw/aims-img-5.jpg",
+        "image_alt": "AIMS Image 3"
+      },
+      {
+        "id": "6",
+        "image_url": "/apw/aims-img-6.jpg",
+        "image_alt": "AIMS Image 3"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Universal Lending",
+    "logo_url": "/apw/ul-logo.png",
+    "cover_url": "/apw/ul-cover.jpg",
+    "tools": "Custom Theme + ACF Fields + PHP + JS + HTML 5",
+    "description": "Universal Lending is committed to helping you find the right mortgage product for your needs. We understand that every borrower is different, and we offer a variety of products to meet your individual requirements. We make the process of securing a mortgage simple and straightforward by offering you the latest in financial tools that enable you to make sound financial choices.",
+    "github_url": "",
+    "slug": "ul",
+    "website": "https://www.universal-lending.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/ul-image-1.jpg",
+        "image_alt": "UL Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/ul-image-2.jpg",
+        "image_alt": "UL Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/ul-image-3.jpg",
+        "image_alt": "UL Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/ul-image-4.jpg",
+        "image_alt": "UL Image 4"
+      },
+      {
+        "id": "5",
+        "image_url": "/apw/ul-image-5.jpg",
+        "image_alt": "UL Image 5"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "City of Fresno",
+    "logo_url": "/apw/city-logo.png",
+    "cover_url": "/apw/city-cover.jpg",
+    "tools": "Custom WordPress Theme + ACF Custom Build + PHP + HTML 5",
+    "description": "Fresno is the fifth largest city in California and the largest city in the Central Valley. It's located in the San Joaquin River Valley, midway between San Francisco and Los Angeles. Fresno is known as the \"Raisin Capital of the World\" and is the headquarters of Sierra National Forest. The city is home to California State University, Fresno, Fresno Pacific University, and a community college.",
+    "github_url": "",
+    "slug": "fresno",
+    "website": "https://www.fresno.gov/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/city-slide-1.jpg",
+        "image_alt": "City Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/city-slide-2.jpg",
+        "image_alt": "City Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/city-slide-3.jpg",
+        "image_alt": "City Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/city-slide-4.jpg",
+        "image_alt": "City Image 4"
+      },
+      {
+        "id": "5",
+        "image_url": "/apw/city-slide-5.jpg",
+        "image_alt": "City Image 5"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Blast and Brew",
+    "logo_url": "/apw/blast-logo.png",
+    "cover_url": "/apw/blast-cover.jpg",
+    "tools": "Custom WordPress Theme + ACF Custom Build + PHP + HTML 5",
+    "description": "Blast and Brew is a Pizza and Brew House where food and beer lovers come together. They make classic, American comfort food from scratch with the freshest, locally sourced ingredients. And we do it better than anyone else.",
+    "github_url": "",
+    "slug": "blast",
+    "website": "https://www.blastandbrew.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/bb-slide-1.jpg",
+        "image_alt": "Blast and Brew Image"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/bb-slide-2.jpg",
+        "image_alt": "Blast and Brew Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/bb-slide-3.jpg",
+        "image_alt": "Blast and Brew Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/bb-slide-4.jpg",
+        "image_alt": "Blast and Brew Image 4"
+      },
+      {
+        "id": "5",
+        "image_url": "/apw/bb-slide-5.jpg",
+        "image_alt": "Blast and Brew Image 5"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Chukchansi Gold Resort & Casino",
+    "logo_url": "/apw/chukchansi-logo.png",
+    "cover_url": "/apw/chuk-cover.jpg",
+    "tools": "Custom WordPress Theme + Meta Fields Custom Build + PHP + JS + HTML 5",
+    "description": "Chukchansi Gold Resort & Casino offers comfort, luxury, gaming and non-stop entertainment. Breathtaking views of the Sierra Nevada Foothills, and well-appointed rooms and suites. Award-Winning Restaurants. 2,000 Slots & 40 Tables.",
+    "github_url": "",
+    "slug": "chuk",
+    "website": "https://chukchansigold.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/chuk-slide-1.jpg",
+        "image_alt": "Chuk Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/chuk-slide-2.jpg",
+        "image_alt": "Chuk Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/chuk-slide-3.jpg",
+        "image_alt": "Chuk Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/chuk-slide-4.jpg",
+        "image_alt": "Chuk Image 4"
+      },
+      {
+        "id": "5",
+        "image_url": "/apw/chuk-slide-5.jpg",
+        "image_alt": "Chuk Image 5"
+      },
+      {
+        "id": "6",
+        "image_url": "/apw/chuk-slide-6.jpg",
+        "image_alt": "Chuk Image 6"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "HomePlate Peanut Butter",
+    "logo_url": "/apw/homeplate-logo.png",
+    "cover_url": "/apw/homeplate-cover.jpg",
+    "tools": "Liquid JS Custom Theme + Javascript + Html 5",
+    "description": "Whether it is our founders who depended on the delicious spread during those long days on the baseball diamond, a kid sitting at the lunch bench trying to keep his mind sharp through a day of school, a weekend warrior on a hike in the local hills, or a busy mom in need of an afternoon boost so that she can somehow run a business and a family at the same time, we all depend on the American classic to keep us energized, sharp, and ready to conquer the day.",
+    "github_url": "",
+    "slug": "homeplate",
+    "website": "https://homeplatepeanutbutter.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/homeplate-slide-1.jpg",
+        "image_alt": "HomePlate Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/homeplate-slide-2.jpg",
+        "image_alt": "HomePlate Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/homeplate-slide-3.jpg",
+        "image_alt": "HomePlate Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/homeplate-slide-4.jpg",
+        "image_alt": "HomePlate Image 4"
+      },
+      {
+        "id": "5",
+        "image_url": "/apw/homeplate-slide-5.jpg",
+        "image_alt": "HomePlate Image 5"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Calviva Health",
+    "logo_url": "/apw/calviva-logo.png",
+    "cover_url": "/apw/calviva-cover.jpg",
+    "tools": "Custom WordPress Theme + ACF Fields Custom Build + PHP + JS + HTML 5",
+    "description": "CalViva Health is a locally managed public health care plan that operates under the Medi-Cal Managed Care Program. CalViva Health offers support to members, providers and residents of our local communities.",
+    "github_url": "",
+    "slug": "calviva",
+    "website": "https://calvivahealth.org/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/calviva-slide-1.jpg",
+        "image_alt": "CalViva Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/calviva-slide-2.jpg",
+        "image_alt": "CalViva Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/calviva-slide-3.jpg",
+        "image_alt": "CalViva Image 3"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Miron Crosby",
+    "logo_url": "/apw/mironcrosby-logo.png",
+    "cover_url": "/apw/mironcrosby-cover.jpg",
+    "tools": "Liquid JS + Javascript + HTML 5",
+    "description": "Miron Crosby is a bespoke boot brand founded in Dallas, Texas with a store in Highland Park Village and a second store in Aspen, Colorado. Created by sisters Lizzie Means Duplantis and Sarah Means, the collection is inspired by the sisters’ experiences of growing up on their family’s West Texas cattle ranch, and later living and working in New York City.",
+    "github_url": "",
+    "slug": "mironcrosby",
+    "website": "https://mironcrosby.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/mironcrosby-slide-1.jpg",
+        "image_alt": "Miron Crosby Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/mironcrosby-slide-2.jpg",
+        "image_alt": "Miron Crosby Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/mironcrosby-slide-3.jpg",
+        "image_alt": "Miron Crosby Image 3"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Sunmade Imagination",
+    "logo_url": "/apw/sunmaid-logo.png",
+    "cover_url": "/apw/sunmaid-cover.jpg",
+    "tools": "React Simple Gaming Application + Javascript + Html 5",
+    "description": "Indulge In Juicy Splendor At Work, Home, And All Stops Between. Try Sun-Maid Today! Browse Delicious Snacks for the Whole Family, Thanks to Sun-Maid Raisins. Buy Now! Healthy Kid's Snacks. Convenient Kid's Snacks. On-the-Go Packaging. Snacks To Go.",
+    "github_url": "https://github.com/artypineda/Sunmaid-Imagine",
+    "slug": "sunmaid",
+    "website": "https://sunmaidimagination.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/sunmaid-slide-1.jpg",
+        "image_alt": "Sunmaid Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/sunmaid-slide-2.jpg",
+        "image_alt": "Sunmaid Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/sunmaid-slide-3.jpg",
+        "image_alt": "Sunmaid Image 3"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Fresno Animal Center",
+    "logo_url": "/apw/ac-logo.png",
+    "cover_url": "/apw/ac-cover.jpg",
+    "tools": "Custom Theme + ACF Fields + PHP + JS + HTML 5",
+    "description": "The new Fresno Animal Center will enhance animal welfare,\nincrease the number of animals fostered and adopted each year,\nand streamline access to pet care and resources.",
+    "github_url": "",
+    "slug": "animal-center",
+    "website": "https://www.fresnoanimalcenter.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/ac-slide-1.jpg",
+        "image_alt": "AC Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/ac-slide-2.jpg",
+        "image_alt": "AC Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/ac-slide-3.jpg",
+        "image_alt": "Ac Image 3"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "HOPE Animal Foundation",
+    "logo_url": "/apw/hope-logo.png",
+    "cover_url": "/apw/hope-cover.jpg",
+    "tools": "Custom Theme + ACF Fields + PHP + JS + HTML 5",
+    "description": "H.O.P.E. Animal Foundation’s mission is to help control the unwanted pet population through spaying and neutering, not killing, and to decrease the number of abandoned, injured, and abused dogs and cats through prevention, education and access to veterinary care.",
+    "github_url": "",
+    "slug": "hope",
+    "website": "https://hopeaf.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/hope-slide-1.jpg",
+        "image_alt": "Hope Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/hope-slide-2.jpg",
+        "image_alt": "Hope Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/hope-slide-3.jpg",
+        "image_alt": "Hope Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/hope-slide-4.jpg",
+        "image_alt": "Hope Image 4"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Me-N-Eds Pizza",
+    "logo_url": "/apw/meneds-logo.png",
+    "cover_url": "/apw/meneds-cover.jpg",
+    "tools": "Custom Theme + ACF Fields + PHP + JS + HTML 5",
+    "description": "Me-n-Ed's is home of original California-style pizza, mouthwatering appetizers & sandwiches! Dine-in, takeout or delivery! Special offers & locations.",
+    "github_url": "",
+    "slug": "meneds",
+    "website": "https://meneds.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/meneds-slide-1.jpg",
+        "image_alt": "Me-N-Eds Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/meneds-slide-2.jpg",
+        "image_alt": "Me-N-Eds Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/meneds-slide-3.jpg",
+        "image_alt": "Me-N-Eds Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/meneds-slide-4.jpg",
+        "image_alt": "Me-N-Eds Image 3"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Fresno/Madera Higher Ed For All",
+    "logo_url": "/apw/k16-logo.png",
+    "cover_url": "/apw/k16-cover.png",
+    "tools": "Custom Theme + ACF Fields + PHP + JS + HTML 5",
+    "description": "The Fresno-Madera K-16 Collaborative is Fresno’s commitment to strengthen our community by providing pathways to college and careers—for all.",
+    "github_url": "",
+    "slug": "highered",
+    "website": "https://www.fresnomaderahigheredforall.org/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/k16-slide-1.jpg",
+        "image_alt": "Fresno Madera Higher Ed for All Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/k16-slide-2.jpg",
+        "image_alt": "Fresno Madera Higher Ed for All Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/k16-slide-3.jpg",
+        "image_alt": "Fresno Madera Higher Ed for All Image 3"
+      },
+      {
+        "id": "4",
+        "image_url": "/apw/k16-slide-4.jpg",
+        "image_alt": "Fresno Madera Higher Ed for All Image 4"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "CV Truss",
+    "logo_url": "/apw/cvtruss-logo.png",
+    "cover_url": "/apw/cvtruss-cover.jpg",
+    "tools": "Custom Theme + ACF Fields + PHP + JS + HTML 5",
+    "description": "CV Truss is a floor and roof truss manufacturer. We have been in business for 10 years! We service the San Joaquin Valley, Central Coast, Bay area, and High Desert area. We supply trusses for tract homes, custom homes, Multi-family, hotels, and commercial buildings.",
+    "github_url": "",
+    "slug": "cvtruss",
+    "website": "https://centralvalleytruss.com/",
+    "media": [
+      {
+        "id": "1",
+        "image_url": "/apw/cvtruss-slide-1.jpg",
+        "image_alt": "CVtruss Image 1"
+      },
+      {
+        "id": "2",
+        "image_url": "/apw/cvtruss-slide-2.jpg",
+        "image_alt": "CVtruss Image 2"
+      },
+      {
+        "id": "3",
+        "image_url": "/apw/cvtruss-slide-3.jpg",
+        "image_alt": "CVtruss Image 3"
+      }
+    ]
+  }
+]
